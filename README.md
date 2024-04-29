@@ -6,11 +6,10 @@
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
-## Acesso
+## Acesso 👨🏻‍💻
  [Clique aqui para acessar! :)]()
 
-## Tecnologias
-
+## Tecnologias 👾
 - HTML
 - CSS
 - JavaScript
